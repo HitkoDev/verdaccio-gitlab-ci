@@ -14,8 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "base64-min": "^2.0.0",
-    "got": "^8.3.0",
-    "verdaccio": "^2.7.4"
+    "got": "^8.3.0"
   },
   "keywords": [
     "verdaccio",
